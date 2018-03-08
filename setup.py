@@ -13,7 +13,7 @@ setup(
     name='FileDB',
     version=version,
     description='provide local file store.',
-    author='qiang wu',
+    author='Qiang Wu',
     author_email='wuqiangroy@gmail.com',
     url='https://github.com/wuqiangroy/FileDB',
     classifiers=[
